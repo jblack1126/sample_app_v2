@@ -1,6 +1,5 @@
 # App name
-
-[brief description of the app]
+not_an_app
 
 ### The following information is displayed:
 
